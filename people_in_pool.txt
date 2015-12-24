@@ -2,3 +2,5 @@ Bob Smith
 Joe Johns
 Peter Parker
 Clark Kent
+Banana Man
+Pistachio Pants
